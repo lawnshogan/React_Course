@@ -2,7 +2,7 @@
 
 ### Using Prettier in VSCODE:
 1. CMD/CTRL + Shift + P -> Format Document  
-OR  
+#### OR  
 2. Select the text you want to Prettify
     - CMD/CTRL + Shift + P -> Format Selection  
   
