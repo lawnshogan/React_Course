@@ -7,4 +7,6 @@ OR
 2. CMD/CTRL + Shift + P -> Format Selection  
   
 ### Create New React App:  
-Run: npx create-react-app my-app
+Run: npx create-react-app my-app  
+
+### JavaScript Refresher:  
