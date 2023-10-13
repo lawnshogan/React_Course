@@ -10,4 +10,3 @@
 Run: npx create-react-app my-app  
 
 ### JavaScript Refresher:  
-test
