@@ -1,5 +1,9 @@
 import reactImg from './assets/react-core-concepts.png';
 import componentsImg from './assets/components.png';
+import jsxUiImg from './assets/jsx-ui.png';
+import propsImg from './assets/config.png';
+import statesImg from './assets/state-mgmt.png';
+
 
 const reactDescriptions = ['Fundamental', 'Crucial', 'Core'];
 
@@ -45,9 +49,21 @@ function App() {
               description="The core UI building block."
               image={componentsImg}
             />
-            <CoreConcept title="Props" />
-            <CoreConcept />
-            <CoreConcept />
+            <CoreConcept 
+            title="JSX"
+            description="JSX Rules."
+            image={jsxUiImg}
+            />
+            <CoreConcept 
+            title="Props"
+            description="Props are cool."
+            image={propsImg}
+            />
+            <CoreConcept 
+            title="State"
+            description="States work well."
+            image={statesImg}
+            />
           </ul>
         </section>
       </main>
