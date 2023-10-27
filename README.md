@@ -9,4 +9,8 @@
 ### Create New React App:  
 Run: npx create-react-app my-app  
 
+### React:
+
+Components: 
+- Apps are built by combining components
 
