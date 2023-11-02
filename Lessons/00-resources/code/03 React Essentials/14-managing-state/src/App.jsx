@@ -36,12 +36,12 @@ function App() {
         <section id="examples">
           <h2>Examples</h2>
           <menu>
-            <TabButton onSelect={() => handleSelect('components')}>
+            <TabButton onSelect={() => handleSelect('Suck')}>
               Components
             </TabButton>
-            <TabButton onSelect={() => handleSelect('jsx')}>JSX</TabButton>
-            <TabButton onSelect={() => handleSelect('props')}>Props</TabButton>
-            <TabButton onSelect={() => handleSelect('state')}>State</TabButton>
+            <TabButton onSelect={() => handleSelect('On')}>JSX</TabButton>
+            <TabButton onSelect={() => handleSelect('Deez')}>Props</TabButton>
+            <TabButton onSelect={() => handleSelect('Nutzzzz')}>State</TabButton>
           </menu>
           {selectedTopic}
         </section>
