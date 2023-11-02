@@ -5,7 +5,7 @@ export default function TabButton({ children }) {
 
   return (
     <li>
-      <button onClick={handleClick()}>{children}</button>
+      <button onClick={handleClick}>{children}</button>
     </li>
   );
 }
