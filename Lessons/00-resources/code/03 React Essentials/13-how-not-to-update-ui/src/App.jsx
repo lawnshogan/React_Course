@@ -4,7 +4,7 @@ import CoreConcept from './components/CoreConcept.jsx';
 import TabButton from './components/TabButton.jsx';
 
 function App() {
-  let tabContent = 'Please click a button';
+  let tabContent = 'Please click a button bitch!!!';
 
   function handleSelect(selectedButton) {
     // selectedButton => 'components', 'jsx', 'props', 'state'
